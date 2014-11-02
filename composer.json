@@ -3,6 +3,13 @@
     "license": "MIT",
     "type": "library",
     "description": "Manipulates case",
+    "homepage": "https://github.com/richardmiller/caser",
+    "authors": [
+        {
+            "name": "Richard Miller",
+            "email": "mrrmiller46@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-0": { "RMiller\\Caser\\": "src/" }
     },
